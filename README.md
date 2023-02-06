@@ -1,6 +1,6 @@
 # Fetch-Data-Analytics
 ## Structured Relational Data Model
-![er_diagram](./er_diagram.png)
+![er_diagram](./img/er_diagram.png)
 ## SQL query(s)
 - SQL dialect: MySQL
 - The commands for creating the tables are in table.sql
@@ -17,18 +17,18 @@
 
 5. How many users scanned in each month?
     - Answer: ("0" means the month the user is scanned is unknown)
-    ![Prob 5](./prob5.png)
+    ![Prob 5](./img/prob5.png)
 
 ## Noteworthy Observation
 ### The SQL commands used for analysis are in analyze.sql
 1. The most money is spent in Walmart.
-![Observation1](./ob1.png)
+![Observation1](./img/ob1.png)
 
 2. There is no data for processed date for receipts.
-![Observation2](./ob2.png)
+![Observation2](./img/ob2.png)
 
 3. Total spent of December is about 3 times of February.
  - ("0" means the month the user made the purchase is unknown)
-![Observation3](./ob3.png)
+![Observation3](./img/ob3.png)
 
 
